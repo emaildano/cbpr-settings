@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CBPR Settings
+Plugin Name: CBPR - API Keys and Settings
 Description: A plugin with CBPR settings.
 Version: 1.0
 Author: Daniel Olson
